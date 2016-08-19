@@ -1,8 +1,6 @@
 #ifndef COLOR_H_
 #define COLOR_H_
 
-#include <windows.h>
-
 enum Color
 {
 	Black         = 0,
